@@ -1,0 +1,5 @@
+a = int(input("Numarul de oua de la prima gaina: "))
+b = int(input("Numarul de oua de la a doua gaina: "))
+c = int(input("Numarul de oua de la a treia gaina: "))
+d = int(input("Numarul de oua de la a patra gaina: "))
+print(7*(a+b+c+d), "oua se obtin intr-o saptamana")
